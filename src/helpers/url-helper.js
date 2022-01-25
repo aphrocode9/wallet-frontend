@@ -1,0 +1,6 @@
+export const USER_DETAIL = "/api/users"
+export const STOCK_DEPOSIT = "/api/stock_deposit"
+export const STOCK_WITHDRAW = "/api/stock_withdraw"
+export const DEPOSIT = "/api/deposit"
+export const WITHDRAW = "/api/withdraw"
+export const TRANSFER = "/api/transfer"
